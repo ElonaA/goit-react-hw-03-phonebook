@@ -1,1 +1,1 @@
-# goit-react-hw-03-phonebook
+# HW React 2
